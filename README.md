@@ -30,7 +30,7 @@ Useful for making any DoS attack look like a DDoS attack
 
 ```sudo apt-get install tor -y```
 
-```git clone https://github.com/codingwithdevil/IP-Changer.git```
+```git clone https://github.com/codingwithdevil/IP-Shuffler.git```
 
 ```cd IP-Shuffler```
 
