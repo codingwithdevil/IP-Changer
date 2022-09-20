@@ -9,7 +9,7 @@ Useful for making any DoS attack look like a DDoS attack
 ***IP-change is a tool It use to shuffle ip & Useful for making any DoS attack look like a DDoS attack, Recoded by devil its only for Pentest Purpose only..***
 
 ### Notes:- 
-    ***This tool is not Mine, All of its credits to ruped24 and its crew, I only maked it some changes 
+***This tool is not Mine, All of its credits to ruped24 and its crew, I only maked it some changes 
     Combine [toriptable2](https://github.com/ruped24/toriptables2.git) & [Tor_ip_switcher](https://github.com/ruped24/tor_ip_switcher.git) & added buttons for set (Tor Hash Password ,check ip 
     start tor , load , flush and refresh).***
 
