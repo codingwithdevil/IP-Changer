@@ -16,7 +16,7 @@ Useful for making any DoS attack look like a DDoS attack
 
 ### [+] Installation For Kali Linux [Currently Only Tested In Linux]
 
-```sudoapt-get update -y```
+```sudo apt-get update -y```
 
 ```sudo apt-get install git -y```
 
