@@ -32,7 +32,7 @@ Useful for making any DoS attack look like a DDoS attack
 
 ```sudo ./IP-Changer.py```
 
-### also u can use this tool from anywere just do  
+### also you can run it anywere from system [Recomended]:-
 
 ```sudo mv IP-Changer.py /usr/local/bin/ ```
 
