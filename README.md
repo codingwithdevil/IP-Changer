@@ -28,8 +28,6 @@ Useful for making any DoS attack look like a DDoS attack
 
 ```cd IP-Changer```
 
-```chmod 777 IP-Changer.py```
-
 ```sudo ./IP-Changer.py```
 
 ### also you can run it anywere from system [Recomended]:-
