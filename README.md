@@ -44,10 +44,6 @@ Useful for making any DoS attack look like a DDoS attack
 
 ```sudo IP-Shuffler.py```
 
-### for run 
-
-```sudo ./IP-Shuffler.py```
-
 ### Single Line command
 
 ```sudo apt-get update && sudo apt-get -y install python-tk && sudo apt-get install tor -y && git clone https://github.com/codingwithdevil/IP-Shuffler.git && cd IP-Shuffler && chmod 777 IP-Shuffler.py && sudo mv IP-Shuffler.py /usr/local/bin/ && sudo IP-Shuffler.py```
