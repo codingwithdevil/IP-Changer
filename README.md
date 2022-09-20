@@ -34,7 +34,7 @@ Useful for making any DoS attack look like a DDoS attack
 
 ### also u can use this tool from anywere just do  
 
-```sudo cp IP-Changer.py /usr/local/bin/
+```sudo mv IP-Changer.py /usr/local/bin/ ```
 
 ### for run 
 
