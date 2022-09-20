@@ -44,4 +44,12 @@ Useful for making any DoS attack look like a DDoS attack
 
 ```sudo apt-get update && sudo apt-get -y install python-tk && sudo apt-get install tor -y && git clone https://github.com/codingwithdevil/IP-Changer.git && cd IP-Changer && sudo mv IP-Changer.py /usr/local/bin/ && sudo ./IP-Changer.py```
 
+
+### Usage:-
+***[1]. Set Tor Hash Password :-
+    type password in set tor password then click on set tor password button
+   [2]. Click on Load and wait 
+   [3]. Then set interval and click start 
+   Note:- if you close the tool it will auto deactivate tor*** 
+
 ### [+] Official Youtube Channel https://www.youtube.com/c/CodingWithDevil/
