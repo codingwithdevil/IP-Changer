@@ -28,6 +28,8 @@ Useful for making any DoS attack look like a DDoS attack
 
 ```cd IP-Changer```
 
+```chmod 777 IP-Changer```
+
 ```sudo ./IP-Changer.py```
 
 ### also you can run it anywere from system [Recomended]:-
@@ -40,7 +42,7 @@ Useful for making any DoS attack look like a DDoS attack
 
 ### Single Line command
 
-```sudo apt-get update && sudo apt-get -y install python-tk && sudo apt-get install tor -y && git clone https://github.com/codingwithdevil/IP-Changer.git && cd IP-Changer && sudo mv IP-Changer.py /usr/local/bin/ && sudo IP-Changer.py```
+```sudo apt-get update && sudo apt-get -y install python-tk && sudo apt-get install tor -y && git clone https://github.com/codingwithdevil/IP-Changer.git && cd IP-Changer && chmod 777 IP-Changer && sudo mv IP-Changer.py /usr/local/bin/ && sudo IP-Changer.py```
 
 
 ### Usage:-
