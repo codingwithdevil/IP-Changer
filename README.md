@@ -5,14 +5,14 @@ Useful for making any DoS attack look like a DDoS attack
 
 [Original by Ruped24](https://drive.google.com/file/d/1bDm5B0HlMammlxZEhAFyGYbItqhZkMX2/view)
 
-[IP-Changer Picture](https://drive.google.com/file/d/1Rcxwk4tQbIFZYLVCY2d9DH2hQLczkGYa/view)
+[IP-Shuffler Picture](https://drive.google.com/file/d/1Rcxwk4tQbIFZYLVCY2d9DH2hQLczkGYa/view)
 
 ### [+] Created by  [Ruped24](https://github.com/ruped24/) 
 
 ### [+] Recoded By Coding With Devil
 
 ### [+] Disclaimer :
-***IP-change is a tool It use to shuffle ip & Useful for making any DoS attack look like a DDoS attack, Recoded by devil its only for Pentest Purpose only..***
+***IP-Shuffler is a tool It use to shuffle ip & Useful for making any DoS attack look like a DDoS attack, Recoded by devil its only for Pentest Purpose only..***
 
 ### Notes:- 
 ***This tool is not Mine, All of its credits to ruped24 and its crew, I only maked it some changes 
@@ -41,6 +41,8 @@ Useful for making any DoS attack look like a DDoS attack
 ### also you can run it anywere from system [Recomended]:-
 
 ```sudo mv IP-Shuffler.py /usr/local/bin/ ```
+
+```sudo IP-Shuffler.py```
 
 ### for run 
 
