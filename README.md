@@ -46,7 +46,6 @@ Useful for making any DoS attack look like a DDoS attack
 
 
 ### Usage:-
-***Set Tor Hash Password :- type password in set tor password then click on set tor password button, Click on Load and wait,Then set interval and click start ***
-***Note:- if you close the tool it will auto deactivate tor*** 
+***Set Tor Hash Password :- type password in set tor password then click on set tor password button, Click on Load and wait,Then set interval and click start; Note:- if you close the tool it will auto deactivate tor*** 
 
 ### [+] Official Youtube Channel https://www.youtube.com/c/CodingWithDevil/
