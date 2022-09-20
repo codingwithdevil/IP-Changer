@@ -4,8 +4,9 @@ Useful for making any DoS attack look like a DDoS attack
 ### [+] Created by  [Ruped24](https://github.com/ruped24/) 
 
 ### [+] Recoded By Coding With Devil
+
 ### [+] Disclaimer :
-***IP-change is a tool recoded for Educational Purpose only.It use to shuffle ip, Useful for making any DoS attack look like a DDoS attack.***
+***IP-change is a tool It use to shuffle ip & Useful for making any DoS attack look like a DDoS attack, Recoded by devil its only for Pentest Purpose only..***
 
 ### Notes:- 
     This tool is not Mine , all of its credits to ruped24 and its crew I only maked it some changes 
