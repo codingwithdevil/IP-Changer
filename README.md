@@ -34,21 +34,21 @@ Useful for making any DoS attack look like a DDoS attack
 
 ```cd IP-Shuffler```
 
-```chmod 777 IP-Changer```
+```chmod 777 IP-Shuffler.py```
 
-```sudo ./IP-Changer.py```
+```sudo ./IP-Shuffler.py```
 
 ### also you can run it anywere from system [Recomended]:-
 
-```sudo mv IP-Changer.py /usr/local/bin/ ```
+```sudo mv IP-Shuffler.py /usr/local/bin/ ```
 
 ### for run 
 
-```sudo ./IP-Changer.py```
+```sudo ./IP-Shuffler.py```
 
 ### Single Line command
 
-```sudo apt-get update && sudo apt-get -y install python-tk && sudo apt-get install tor -y && git clone https://github.com/codingwithdevil/IP-Shuffler.git && cd IP-Shuffler && chmod 777 IP-Changer && sudo mv IP-Changer.py /usr/local/bin/ && sudo IP-Changer.py```
+```sudo apt-get update && sudo apt-get -y install python-tk && sudo apt-get install tor -y && git clone https://github.com/codingwithdevil/IP-Shuffler.git && cd IP-Shuffler && chmod 777 IP-Shuffler.py && sudo mv IP-Shuffler.py /usr/local/bin/ && sudo IP-Shuffler.py```
 
 
 ### Usage:-
