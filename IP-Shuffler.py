@@ -1,6 +1,6 @@
 #! /usr/bin/env python2
 """
-This tool is not Mine, All of its credits to ruped24 and its crew, I only maked it some changes
+The IP-Shuffler tool is not Mine, All of its credits to ruped24 and its crew, I only maked it some changes
 Combine toriptable2 & Tor_ip_switcher & added buttons for set (Tor Hash Password ,check ip, start 
 tor , load , flush and refresh).
 Useful for making any DoS attack look like a DDoS attack.
