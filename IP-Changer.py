@@ -1,7 +1,8 @@
 #! /usr/bin/env python2
 """
-tor_switcher.py reloaded and refactored by Rupe to work with toriptables2.py.
-tor_ip_switcher.py is a light GUI interface for issuing NEWNYM signals over TOR's control port.
+This tool is not Mine, All of its credits to ruped24 and its crew, I only maked it some changes
+Combine toriptable2 & Tor_ip_switcher & added buttons for set (Tor Hash Password ,check ip, start 
+tor , load , flush and refresh).
 Useful for making any DoS attack look like a DDoS attack.
 """
 
